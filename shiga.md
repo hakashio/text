@@ -97,7 +97,7 @@
 <tr><td>95</td><td>GOIN’!!!</td><td>平和堂「かけっことびっこ」</td></tr>
 <tr><td>96</td><td>ハイファイ☆デイズ</td><td>熊木仏壇</td></tr>
 <tr><td>97</td><td>夏恋 -NATSU KOI-</td><td>オウミ住宅</td></tr>
-<tr><td>98</td><td>オルゴールの小箱</td><td>アヤハディオ</td></tr>
+<tr><td>98</td><td>オルゴールの小箱</td><td>いろいろ</td></tr>
 <tr><td>99</td><td>エチュードは1曲だけ</td><td>T.M.Revolution「Lakers」</td></tr>
 <tr><td>100</td><td>Flip Flop</td><td>琵琶湖周航の歌</td></tr>
 </table>
