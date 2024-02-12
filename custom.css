@@ -1,4 +1,4 @@
-/* 960px以上で幅を広げる */
+/* 基本50% 960px以上で幅を広げる */
 @media screen and (min-width: 960px) {
-    div.wrapper { width: 77%; }
+    div.wrapper { width: 50%; }
 }
